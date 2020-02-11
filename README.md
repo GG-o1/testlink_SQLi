@@ -16,7 +16,7 @@ parameter:relation_type
 
 3.Search Requirement
 
-![](./step3.png)
+![](./setp2.png)
 
 4.attack results
 
